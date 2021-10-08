@@ -1,3 +1,3 @@
-##Google 1998 Clone
+# Google 1998 Clone
 
-Patika.dev CSS Ödev-2
+Patika.dev CSS ödevi için hazırlanmıştır.
